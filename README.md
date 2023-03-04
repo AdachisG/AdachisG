@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,I'm Adachi
 
 <!--
 **AdachisG/AdachisG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You are my ![Visitor Count](https://profile-counter.glitch.me/AdachisG/count.svg)visitor,Thank You!😘😘
+
+![](https://github-readme-stats.vercel.app/api?username=AdachisG&show_icons=true&theme=transparent)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=AdachisG&theme=dracula)
